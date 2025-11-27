@@ -1,0 +1,10 @@
+1. ls - list files
+2. cd - change directory
+3. pwd - show current path
+4. mkdir - make directory
+5. rmdir - remove empty directory
+6. touch - create empty file
+7. cp - copy file or folder
+8. mv - move or rename file
+9. rm - remove file
+10. cat - show file content

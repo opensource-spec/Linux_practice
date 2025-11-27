@@ -1,6 +1,1 @@
-Goal 1: Learn Python
-Goal 2: Master Git
-Goal 3: Build CLI tools
-Goal 4: Practice Linux
-Goal 5: Create projects
-Goal 6: Explore APIs
+goal 1: learn os goal2: learn: git goal 3: do os honework
